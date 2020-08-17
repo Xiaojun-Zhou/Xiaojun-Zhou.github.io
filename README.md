@@ -1,17 +1,25 @@
-## Jinbiao Zhao's Home Page
+## Xiaojun Zhou's Home Page
 
-**Jinbiao Zhao**, Master Student,University of Chinese Academy of Sciences
+**Xiaojun Zhou**, Researcher,CAS Nanjing Astronomical Instrument Co., Ltd, Chinese Academy of Sciences Nanjing Branch
+                  Professor, University of Science and Technology of China
 
 E-mail: 18761605658@163.com
 
 ### Research Interests
 
-Machine Learning,  Auto-Control, Astronomical Instruments
+The control of astronomical telescope,Machine Learning.
 
 ### Research Achievements
 _Patent_
 
-- CN106683712B 胡企千, 李冬冬, 赵金标,等. 一种二维高精度检测平台:.
+- CN102943868B 用于天文机械的具有消隙机构的小转动角度传动装置
+- CN202955207U 具有消隙机构的小转动角度传动装置
+- CN102928972A 以光楔为折光元件的太阳望远镜导星镜
+- CN102729117A 数控非球面磨镜机
+- CN101344638A 基于激光指示与图像处理的圆顶随动控制方法及其设备
+- CN203566450U 磨制非球面光学镜面的数控磨镜机
+- CN202955207U 具有消隙机构的小转动角度传动装置
+- CN100454079C 天文望远镜视频CCD自动导星方法
 
 _Article_
 
@@ -19,13 +27,11 @@ _Article_
 
 - 赵金标, 朱庆生, 周小军,等. 基于Pt1000的滤光器测温系统设计[J]. 传感器与微系统, 2017(6).
 
-- 低温下(-213℃)补偿机构的设计[J]. 红外技术(8期):659-665.
 
 ### For CV in Papers
 ```text
-Jinbiao Zhao was born in YanCheng, Jiangsu, China in 1991. 
-He graduated from Nanjing University of Technology in 2014 and obtained a bachelor's degree in engineering. 
-He graduated from University of Chinese Academy of Sciences in 2017 and obtained a master's degree in engineering.
-He is currently working in CAS Nanjing Astronomical Instrument Co., Ltd. 
-His research interests include the application of intelligent algorithms in industry,Astronomical Instruments.
+Xiaojun Zhou was born in Taizhou, Jiangsu, China in 1972. 
+He graduated from Southeast University in 1994 and obtained a bachelor's degree in engineering. 
+He is currently working in CAS Nanjing Astronomical Instrument Co., Ltd. and University of Science and Technology of China
+His research interests include the application of intelligent algorithms in industry,the control of astronomical telescope.
 ```
