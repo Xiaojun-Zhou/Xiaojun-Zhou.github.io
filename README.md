@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Jinbiao Zhao's Home Page
 
-You can use the [editor on GitHub](https://github.com/Xiaojun-Zhou/Xiaojun-Zhou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Jinbiao Zhao**, Master Student,University of Chinese Academy of Sciences
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+E-mail: 18761605658@163.com
 
-### Markdown
+### Research Interests
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Machine Learning,  Auto-Control, Astronomical Instruments
 
-```markdown
-Syntax highlighted code block
+### Research Achievements
+_Patent_
 
-# Header 1
-## Header 2
-### Header 3
+- CN106683712B 胡企千, 李冬冬, 赵金标,等. 一种二维高精度检测平台:.
 
-- Bulleted
-- List
+_Article_
 
-1. Numbered
-2. List
+- 赵金标, 朱庆生, 周小军,等. 钢环反射式光栅编码器在转台伺服系统中的应用[J]. 传感技术学报, 2017, 030(005):801-806.
 
-**Bold** and _Italic_ and `Code` text
+- 赵金标, 朱庆生, 周小军,等. 基于Pt1000的滤光器测温系统设计[J]. 传感器与微系统, 2017(6).
 
-[Link](url) and ![Image](src)
+- 低温下(-213℃)补偿机构的设计[J]. 红外技术(8期):659-665.
+
+### For CV in Papers
+```text
+Jinbiao Zhao was born in YanCheng, Jiangsu, China in 1991. 
+He graduated from Nanjing University of Technology in 2014 and obtained a bachelor's degree in engineering. 
+He graduated from University of Chinese Academy of Sciences in 2017 and obtained a master's degree in engineering.
+He is currently working in CAS Nanjing Astronomical Instrument Co., Ltd. 
+His research interests include the application of intelligent algorithms in industry,Astronomical Instruments.
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xiaojun-Zhou/Xiaojun-Zhou.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
