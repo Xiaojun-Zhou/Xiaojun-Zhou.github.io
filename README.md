@@ -2,7 +2,7 @@
 
 **Xiaojun Zhou**, Researcher,CAS Nanjing Astronomical Instrument Co., Ltd, Chinese Academy of Sciences Nanjing Branch; Professor, University of Science and Technology of China
 
-E-mail: 18761605658@163.com
+E-mail: xiaojunzhou@nairc.ac.cn
 
 ### Research Interests
 
